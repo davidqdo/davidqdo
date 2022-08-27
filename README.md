@@ -9,6 +9,6 @@
 
 ## Statistics
 <p align="center">
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidqdo&theme=chartreuse-dark&layout=compact" />
-<img src="https://github-readme-stats.vercel.app/api?username=davidqdo&theme=chartreuse-dark" />
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidqdo&theme=chartreuse-dark&layout=compact" />
+<img width="400" height="200" src="https://github-readme-stats.vercel.app/api?username=davidqdo&theme=chartreuse-dark" />
 </p>
