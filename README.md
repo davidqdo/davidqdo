@@ -6,3 +6,9 @@
 - 📫 You can reach me from:  
    - 🏫 School: davidqdo@csu.fullerton.edu  
    - 🧑 Personal: davidqdo416@gmail.com  
+
+## Statistics
+<p align="center">
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidqdo&theme=chartreuse-dark&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api?username=davidqdo&theme=chartreuse-dark" />
+</p>
